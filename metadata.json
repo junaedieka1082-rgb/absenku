@@ -1,0 +1,6 @@
+{
+  "name": "Presensi Pro",
+  "description": "Aplikasi absensi karyawan GPS & biometrik dengan integrasi penggajian, perhitungan PPh 21 TER, BPJS, manajemen cuti, dan analitik kedisiplinan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
